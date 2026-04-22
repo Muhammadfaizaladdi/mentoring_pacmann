@@ -16,5 +16,5 @@ def nll(actual, predicted_proba):
 
 
 res = nll(actual, predicted_proba)
-print(res)
+print("Nilai Negative Likelyhood adalah:",res)
 # Should be 0.16836656419122908
